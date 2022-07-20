@@ -28,6 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Solution URL: [Add solution URL here](
 https://glitch.com/edit/#!/quark-whimsical-scapula)
 - Live Site URL: [Add live site URL here](https://quark-whimsical-scapula.glitch.me)
+- Projet likn on GitHub: [](https://itsmeelo.github.io/QR-code-component/)
 
 ## My process
 
